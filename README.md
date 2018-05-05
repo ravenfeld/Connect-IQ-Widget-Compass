@@ -1,6 +1,6 @@
 # Connect-IQ-Widget-Compass
-![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/dev/screenshot/0.png)
-![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/dev/screenshot/1.png)
+![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/develop/screenshot/0.png)
+![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/develop/screenshot/1.png)
 
 # Link
 [Compass](https://apps.garmin.com/fr-FR/apps/dbfd3b94-13af-49ad-a7dc-0f6b6604695c)
