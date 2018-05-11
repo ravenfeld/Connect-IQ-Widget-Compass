@@ -56,8 +56,10 @@ class CompassWidgetView extends Ui.View {
 	    dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
         dc.clear();  
                
-		var actInfo = Activity.getActivityInfo();
-		heading_rad = actInfo.currentHeading;
+		//var actInfo = Activity.getActivityInfo();
+		var actInfo = Sensor.getInfo();
+		//heading_rad = actInfo.currentHeading;
+		heading_rad = actInfo.heading;
 		if( heading_rad != null) {
 			var map_declination =  App.getApp().getProperty("map_declination");
 			if (map_declination != null ) {
