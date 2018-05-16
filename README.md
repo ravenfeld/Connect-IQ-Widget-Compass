@@ -1,3 +1,6 @@
+# MIGRATED
+https://gitlab.com/ravenfeld/Connect-IQ-Widget-Compass
+
 # Connect-IQ-Widget-Compass
 ![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/develop/screenshot/0.png)
 ![0](https://github.com/ravenfeld/Connect-IQ-Widget-Compass/blob/develop/screenshot/1.png)
